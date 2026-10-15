@@ -1,44 +1,33 @@
+![EruditeWBT brand mark](brand.svg)
+
 # LearnedData
 
-# CBT and Assessment Platform
+> Learning resources, connected and ready to use.
 
-**Brand:** EruditeWBT  
-**Department:** Learning Products  
-**Status:** `source-present-deployment-and-feature-review-needed`
+## The Opportunity
 
-## Overview
+LearnedData provides a home for reusable learning information that can support courses, study experiences, and educational products across the EruditeWBT ecosystem.
 
-A Flutter-based computer-based testing and assessment app. Source code includes exam and question workflows; deployment and learner-facing feature coverage still need confirmation.
+## Who It Serves
 
-## Who It Is For
+Learners and educators using connected EruditeWBT learning experiences.
 
-Learners, instructors, and organizations running digital assessments.
+## What It Makes Possible
 
-## Capabilities
+- Support consistent educational experiences across products
+- Make learning information easier to organize and reuse
+- Connect knowledge resources with courses and learner activities
 
-- Flutter mobile application for computer-based testing
-- Question and exam workflows are present in the source project
-- Firebase setup is documented in the project README; production configuration must be verified
+## How People Use It
 
-## How To Use It
+1. Explore the resource through a participating learning experience.
+2. Use its materials alongside the relevant course or activity.
+3. Follow the connected learning path for further study.
 
-1. Install Flutter and the FlutterFire CLI
-2. Configure Firebase for the intended app environment
-3. Run flutter pub get and launch the app on a supported target
+## How It Connects
 
-For exact installation steps, supported features, account requirements, and troubleshooting, follow the linked source documentation below. Where those links are not available yet, this page marks the gap instead of inventing product behavior.
+- Part of EruditeWBT’s shared learning foundation, supporting consistency across courses and educational products.
 
-## Links
+## Explore
 
-- Canonical repository: Not recorded; verify the canonical repository before publishing.
-- Source project: `app/cbt`
-- Deployed applications:
-- No verified deployed link is recorded yet.
-
-## Source Documentation
-
-- Source documentation is available in the corresponding project repository.
-
-## Catalog Maintenance
-
-Edit `portfolio_catalog/catalog.json` and run `python tools/build_project_catalog.py` to rebuild this page and its department indexes. Confirm repository ownership, product capabilities, installation steps, and deployment URLs before changing this project's status to `verified`.
+- [Official project repository](https://github.com/eruditewbt/LearnedData)
