@@ -2,32 +2,34 @@
 
 # LearnedData
 
-> Learning resources, connected and ready to use.
+> Practice knowledge. Explore questions. Keep learning.
 
 ## The Opportunity
 
-LearnedData provides a home for reusable learning information that can support courses, study experiences, and educational products across the EruditeWBT ecosystem.
+LearnedData brings assessment and research into the EruditeWBT learning ecosystem. It supports practice through computer-based learning and gives learners a place to engage with research and information that can deepen their understanding.
 
 ## Who It Serves
 
-Learners and educators using connected EruditeWBT learning experiences.
+Learners, educators, and researchers who want study, assessment, and inquiry to reinforce one another.
 
 ## What It Makes Possible
 
-- Support consistent educational experiences across products
-- Make learning information easier to organize and reuse
-- Connect knowledge resources with courses and learner activities
+- Support computer-based learning and assessment
+- Help learners practice and review what they know
+- Connect learning with research and supporting information
 
 ## How People Use It
 
-1. Explore the resource through a participating learning experience.
-2. Use its materials alongside the relevant course or activity.
-3. Follow the connected learning path for further study.
+1. Choose a learning or assessment experience.
+2. Practice and review material relevant to your goal.
+3. Explore related research and use it to guide further study.
 
 ## How It Connects
 
-- Part of EruditeWBT’s shared learning foundation, supporting consistency across courses and educational products.
+- Complements EruditeWBT courses and Learnreadables: practice checks understanding, while research and reading provide deeper context.
 
 ## Explore
 
 - [Official project repository](https://github.com/eruditewbt/LearnedData)
+- [Learnreadables](https://github.com/eruditewbt/Learnreadables)
+- [EruditeWBT](https://github.com/eruditewbt/eruditewbt)
