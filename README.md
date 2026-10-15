@@ -31,5 +31,6 @@ Learners, educators, and researchers who want study, assessment, and inquiry to 
 ## Explore
 
 - [Official project repository](https://github.com/eruditewbt/LearnedData)
+- [Open product](https://examination-manager.web.app/)
 - [Learnreadables](https://github.com/eruditewbt/Learnreadables)
 - [EruditeWBT](https://github.com/eruditewbt/eruditewbt)
